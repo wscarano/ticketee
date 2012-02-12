@@ -45,4 +45,5 @@ group :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem "cucumber-rails-training-wheels"
+  gem 'factory_girl'
 end
